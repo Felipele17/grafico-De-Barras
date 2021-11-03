@@ -12,6 +12,8 @@ struct grafico_De_BarrasApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            ContentView2()
+            ContentView3()
         }
     }
 }

@@ -107,7 +107,7 @@ struct SideGraphView: View {
                     }
                         
                 }
-            }.background(Color.black)
+            }
         }
     }
 }
