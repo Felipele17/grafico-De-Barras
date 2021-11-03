@@ -27,7 +27,7 @@ struct SingleGraphView: View {
                         .fill(colorSingleBar)
                         .frame(width: widthBar, height: valueSingleBar)
                         .cornerRadius(cornerRadiusBar)
-                } 
+                }
                 
             }
         }
@@ -105,7 +105,7 @@ struct SideGraphView: View {
                             .frame(width: widthBar, height: valueBarTwo)
                             .cornerRadius(cornerRadiusBar)
                     }
-                        
+                    
                 }
             }
         }
