@@ -12,6 +12,7 @@
 		4A24DB64272B359100D0B371 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A24DB63272B359100D0B371 /* Assets.xcassets */; };
 		4A24DB67272B359100D0B371 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A24DB66272B359100D0B371 /* Preview Assets.xcassets */; };
 		4A24DB70272B370900D0B371 /* GraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A24DB6F272B370900D0B371 /* GraphView.swift */; };
+		B0E15C7427344CEE00652630 /* AppContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0E15C7327344CEE00652630 /* AppContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		4A24DB63272B359100D0B371 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A24DB66272B359100D0B371 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4A24DB6F272B370900D0B371 /* GraphView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphView.swift; sourceTree = "<group>"; };
+		B0E15C7327344CEE00652630 /* AppContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4A24DB6D272B36E500D0B371 /* Views */,
 				4A24DB5F272B358F00D0B371 /* grafico_De_BarrasApp.swift */,
 				4A24DB61272B358F00D0B371 /* ContentView.swift */,
+				B0E15C7327344CEE00652630 /* AppContentView.swift */,
 				4A24DB63272B359100D0B371 /* Assets.xcassets */,
 				4A24DB65272B359100D0B371 /* Preview Content */,
 			);
@@ -158,6 +161,7 @@
 			files = (
 				4A24DB62272B358F00D0B371 /* ContentView.swift in Sources */,
 				4A24DB60272B358F00D0B371 /* grafico_De_BarrasApp.swift in Sources */,
+				B0E15C7427344CEE00652630 /* AppContentView.swift in Sources */,
 				4A24DB70272B370900D0B371 /* GraphView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,7 +293,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"grafico-De-Barras/Preview Content\"";
-				DEVELOPMENT_TEAM = L3LQDD8K39;
+				DEVELOPMENT_TEAM = 9R89XP5A63;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -318,7 +322,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"grafico-De-Barras/Preview Content\"";
-				DEVELOPMENT_TEAM = L3LQDD8K39;
+				DEVELOPMENT_TEAM = 9R89XP5A63;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
