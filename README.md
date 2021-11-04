@@ -9,10 +9,10 @@ Um eixo do gráfico mostra especificamente o que está sendo comparado enquanto 
 
 <br>
 
-<img width="323" alt="Captura de Tela 2021-11-04 às 14 29 42" src="https://user-images.githubusercontent.com/53840501/140390535-54c23f37-7a0a-4191-93e4-deaa37117211.png"> <img width="326" alt="Captura de Tela 2021-11-04 às 14 28 32" src="https://user-images.githubusercontent.com/53840501/140390546-21d06fbb-4bab-4789-ad00-9cf6ce7057f9.png">
 
-
-<img width="323" alt="Captura de Tela 2021-11-04 às 14 29 42" src="https://user-images.githubusercontent.com/53840501/140395982-1dd57908-8ccb-4dfa-9deb-ac9041714dc9.png"> <img width="326" alt="Captura de Tela 2021-11-04 às 14 28 32" src="https://user-images.githubusercontent.com/53840501/140396089-69cd7f98-5257-47c8-9b9a-23b1c3bd84e6.png">
+![11-04 13_55_10-Window](https://user-images.githubusercontent.com/34018974/140416997-da2d9798-268c-467b-99e3-9f9327ec9502.png)
+![5-Window](https://user-images.githubusercontent.com/34018974/140417096-1ca9c223-5a3e-436f-b5c4-33845fdd6100.png)
+![2021-11-04 13_55_56-Window](https://user-images.githubusercontent.com/34018974/140417108-4a03e8b2-5079-45af-9c39-767feac25b01.png)
 
 
 # Passos
