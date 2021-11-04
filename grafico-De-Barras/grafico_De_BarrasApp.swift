@@ -14,6 +14,8 @@ struct grafico_De_BarrasApp: App {
             ContentView()
             ContentView2()
             ContentView3()
+            ContentView4()
+            ContentView5()
         }
     }
 }
