@@ -17,16 +17,25 @@ Um eixo do gráfico mostra especificamente o que está sendo comparado enquanto 
 
 # Passos
 ## 1. Criando uma estrutura básica para a utilização do Framework
-![WhatsApp Image 2021-11-03 at 16 45 04](https://user-images.githubusercontent.com/50211565/140181764-11313f96-c566-48f4-9513-8f3b16fd0a92.jpeg)
-fonte: https://www.fm2s.com.br/grafico-de-dispersao/
-## 2. Substituindo o etângulo preto pelo gráfico <br>
+### Exemplo com Barras Únicas
+<img width="1438" alt="Screen Shot 2021-11-05 at 14 39 54" src="https://user-images.githubusercontent.com/34018974/140554731-ad694762-404b-4aa3-a5ab-48d21475314b.png">
 
-### Como utilizar a classe?
-_DispersionGraph(_ data: [[CGPoint]],title:String, eixoX:String, eixoY: String,colors: [Color],subtitle: [String]))
+### Exemplo com Barras empilhadas
+<img width="1420" alt="Screen Shot 2021-11-05 at 14 31 09" src="https://user-images.githubusercontent.com/34018974/140553645-e3f31071-a627-43c6-bcb5-e917e899b55a.png">
+
+### Exemplo com Barras lado-a-lado
+<img width="1438" alt="Screen Shot 2021-11-05 at 14 36 48" src="https://user-images.githubusercontent.com/34018974/140554777-2cb4896f-9283-41b5-a017-24c4c23d8d4d.png">
+
+
+## 2. Alterando o título e os valores das barras <br>
+
+### Onde alterar?
+var barValuesOne: [CGFloat] = [50, 60, 70, 80, 90]
         
-Primordialmente o gráfico deve receber uma matriz de CGPoints "x, y", já que o gráfico de Dispersão é uma representação da associação entre pares de dados e pode ser feita entre um ou mais tipos de pares. No primeiro exemplo, vamos testar apenas com um tipo.
-<img width="987" alt="Captura de Tela 2021-11-04 às 13 38 34" src="https://user-images.githubusercontent.com/53840501/140381207-0de717fa-c70e-420e-ad13-0da515d2f17c.png">
-* points: [[CGPoints]] <br>
+Primordialmente, cada gráfico de barras deve possuir um valor no seu topo, pois é uma representação de quantidades de alguma coisa. Para alterar esses valores, no gráfico de barras únicas alteramos esses parâmetros visualizados na imagem abaixo: bar valuesOne: 
+
+
+
 ⚠️ Use o nome da classe do gráfico para instanciar o gráfico em seu projeto: DispersionGraph <br>
 ⚠️ Passe como parâmetro, para o seu gráfico, uma matriz com CGPoints. Nesse primeiro exemplo temos apenas um dado na matriz, já que estamos analisando apenas um dado <br>
 ⚠️ Lembre-se de setar uma configuração de tamanho para o seu gráfico. Recomendamos no mínimo 350x500 <br>
