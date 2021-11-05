@@ -34,13 +34,13 @@ var barValuesOne: [CGFloat] = [50, 60, 70, 80, 90]
         
 Primordialmente, cada gráfico de barras deve possuir um valor no seu topo, pois é uma representação de quantidades de alguma coisa. Para alterar esses valores, no gráfico de barras únicas alteramos esses parâmetros visualizados na imagem abaixo: bar valuesOne: 
 
-
+<img width="1155" alt="Screen Shot 2021-11-05 at 15 00 25" src="https://user-images.githubusercontent.com/34018974/140561434-a440a59c-6d39-420c-8082-200220678b34.png">
 
 ⚠️ Use o nome da classe do gráfico para instanciar o gráfico em seu projeto: DispersionGraph <br>
 ⚠️ Passe como parâmetro, para o seu gráfico, uma matriz com CGPoints. Nesse primeiro exemplo temos apenas um dado na matriz, já que estamos analisando apenas um dado <br>
 ⚠️ Lembre-se de setar uma configuração de tamanho para o seu gráfico. Recomendamos no mínimo 350x500 <br>
 
-## 6. Personalizando o gráfico 
+## 3. Personalizando o gráfico 
 ### Título 
 ⚠️ Passe mais um parâmetro para o seu gráfico, com o título desejado <br>
 title: String <br>
